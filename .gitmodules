@@ -1,0 +1,9 @@
+[submodule "3_product_layer/external/3_backend"]
+	path = 3_product_layer/external/3_backend
+	url = https://github.com/TennisKim/3_backend.git
+[submodule "4_product_line_layer/external/4_backend"]
+	path = 4_product_line_layer/external/4_backend
+	url = https://github.com/TennisKim/4_backend.git
+[submodule "5_product_model_layer/external/5_backend"]
+	path = 5_product_model_layer/external/5_backend
+	url = https://github.com/TennisKim/5_backend.git
